@@ -31,7 +31,6 @@ git clone https://github.com/GuilhermeFernandesCruz/sqlivros.git
 ```
 2. Abra o MySQL Workbench ou qualquer ferramenta de banco de dados MySQL.
 3. Execute o script `livraria.sql` para criar o banco e popular a tabela.
-4. Realize as consultas disponíveis no arquivo `consultas.sql`.
 
 ## 🎯 Objetivo
 Esse projeto faz parte do meu aprendizado na área de tecnologia, onde estou praticando conceitos de bancos de dados relacionais e desenvolvimento back-end.
