@@ -27,7 +27,7 @@ O projeto consiste na criação de um banco de dados que armazena informações 
 ## 🚀 Como Executar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sqlivros.git
+git clone https://github.com/GuilhermeFernandesCruz/sqlivros.git
 ```
 2. Abra o MySQL Workbench ou qualquer ferramenta de banco de dados MySQL.
 3. Execute o script `livraria.sql` para criar o banco e popular a tabela.
